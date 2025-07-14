@@ -1,5 +1,7 @@
 <h1 align="center">🍷 Red Wine Quality Predictor & Analytics</h1>
+
 ---
+
 # Overview 📊
 
 This Streamlit-based web application offers a robust platform for analyzing and predicting red wine quality using machine learning. Powered by the UCI Red Wine Quality dataset, it provides interactive visualizations, model performance metrics, feature importance insights, and quality predictions based on physicochemical properties. Ideal for winemakers, sommeliers, and wine enthusiasts seeking data-driven insights.
